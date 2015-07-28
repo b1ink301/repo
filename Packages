@@ -1,0 +1,33 @@
+Package: cc.tweak.libobjcipc
+Version: 1.0.2-9
+Section: 
+Maintainer: Alan Yip
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
+Architecture: iphoneos-arm
+Filename: ./deb_files/cc.tweak.libobjcipc_1.0.2-9_iphoneos-arm.deb
+Size: 71258
+Installed-Size: 228
+MD5sum: 850ef620cc925d3e3bade4ff224b567c
+Description: 
+Name: libobjcipc
+Author: Alan Yip
+
+Package: kr.b1ink.5sky
+Version: 1.3-1
+Priority: optional
+Section: Tweaks
+Maintainer: b1ink
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Filename: ./deb_files/kr.b1ink.5sky_1.3-1_iphoneos-arm.deb
+Size: 652444
+MD5sum: 21a5bb183bda4c4f874d30cae8f602f6
+Description: 
+Name: 5sky
+Author: b1ink
+Homepage: 
+Depiction: 
+Icon: 
+
