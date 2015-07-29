@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./deb_files///cc.tweak.libobjcipc_1.0.2-9_iphoneos-arm.deb
 Size: 71258
 MD5sum: 850ef620cc925d3e3bade4ff224b567c
+SHA1: 11fadd77759545b2b4aca4818051d39faf242ba4
+SHA256: db7b33cf088c40f0931bcc1adfb705f5e2f5c68c2d53d4faf06128a38df0340d
 Description: An inter-process communication (between app and SpringBoard) solution for jailbroken iOS.
 Name: libobjcipc
 Author: Alan Yip
@@ -20,6 +22,8 @@ Architecture: iphoneos-arm
 Filename: ./deb_files///kr.b1ink.5sky_1.3-1_iphoneos-arm.deb
 Size: 652444
 MD5sum: 21a5bb183bda4c4f874d30cae8f602f6
+SHA1: aeaa8c6644d34be3a19bfb3dfe221e8724c66fcb
+SHA256: 49560c86ce58365585aefdeecf163ff196f0848fe86b04924064dc5e89b11fbb
 Description: Quick Reply for KakaoTalk (ios8)
 Name: 5sky
 Author: b1ink
@@ -33,6 +37,8 @@ Architecture: iphoneos-arm
 Filename: ./deb_files///kr.b1ink.whoau8_1.1-0_iphoneos-arm.deb
 Size: 554322
 MD5sum: f55f81f1c30e0e2f6ce5888b945b4be3
+SHA1: 2112c95847fbc7a11e9e74ee2362e7447e29b4f6
+SHA256: bf12d1d7e9399204e47dfd7b12390edd5e23d7eb43eacd3e4b967d98cc4e8a6e
 Description: See Who's calling
 Name: whoau8
 Author: b1ink
