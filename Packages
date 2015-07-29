@@ -9,7 +9,7 @@ Filename: ./deb_files///cc.tweak.libobjcipc_1.0.3-1_iphoneos-arm.deb
 Size: 71296
 MD5sum: 98ae84179c38901289152dbc141c3c34
 Description: An inter-process communication (between app and SpringBoard) solution for jailbroken iOS.
-Name: libobjcipc
+Name: libobjcipc (ios8)
 Author: Alan Yip <alan@tweak.cc>
 
 Package: kr.b1ink.5sky
