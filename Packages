@@ -10,21 +10,21 @@ Size: 71296
 MD5sum: 98ae84179c38901289152dbc141c3c34
 Description: An inter-process communication (between app and SpringBoard) solution for jailbroken iOS.
 Name: libobjcipc
-Author: Alan Yip
+Author: Alan Yip <alan@tweak.cc>
 
 Package: kr.b1ink.5sky
 Version: 1.3-1
 Priority: optional
 Section: Tweaks
 Maintainer: b1ink
-Depends: firmware (>= 8.0), mobilesubstrate
+Depends: firmware (>= 8.0), mobilesubstrate, cc.tweak.libobjcipc
 Architecture: iphoneos-arm
 Filename: ./deb_files///kr.b1ink.5sky_1.3-1_iphoneos-arm.deb
 Size: 652444
 MD5sum: 21a5bb183bda4c4f874d30cae8f602f6
 Description: Quick Reply for KakaoTalk (ios8)
 Name: 5sky
-Author: b1ink
+Author: b1ink <b1ink301@gmail.com>
 
 Package: kr.b1ink.whoau8
 Version: 1.1-0
@@ -38,5 +38,5 @@ Size: 554322
 MD5sum: f55f81f1c30e0e2f6ce5888b945b4be3
 Description: See Who's calling (ios8)
 Name: whoau8
-Author: b1ink
+Author: b1ink <b1ink301@gmail.com>
 
