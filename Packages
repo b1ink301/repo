@@ -16,9 +16,7 @@ Version: 1.3-1
 Priority: optional
 Section: Tweaks
 Maintainer: b1ink
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
-Conflicts: 
-Replaces: 
+Depends: firmware (>= 8.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./deb_files/kr.b1ink.5sky_1.3-1_iphoneos-arm.deb
 Size: 652444
@@ -33,8 +31,6 @@ Priority: optional
 Section: Tweaks
 Maintainer: b1ink
 Depends: firmware (>= 8.0), mobilesubstrate
-Conflicts: 
-Replaces: 
 Architecture: iphoneos-arm
 Filename: ./deb_files/kr.b1ink.whoau8_1.1-0_iphoneos-arm.deb
 Size: 554322
