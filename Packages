@@ -1,6 +1,7 @@
 Package: cc.tweak.libobjcipc
 Version: 1.0.3-1
 Section: Tweaks
+Priority: optional
 Maintainer: Alan Yip
 Depends: firmware (>= 8.0), mobilesubstrate
 Architecture: iphoneos-arm
