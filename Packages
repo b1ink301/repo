@@ -2,7 +2,7 @@ Package: cc.tweak.libobjcipc
 Version: 1.0.2-9
 Section: 
 Maintainer: Alan Yip
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
 Architecture: iphoneos-arm
 Filename: ./deb_files/cc.tweak.libobjcipc_1.0.2-9_iphoneos-arm.deb
 Size: 71258
@@ -17,7 +17,7 @@ Version: 1.3-1
 Priority: optional
 Section: Tweaks
 Maintainer: b1ink
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
 Conflicts: 
 Replaces: 
 Architecture: iphoneos-arm
@@ -45,8 +45,8 @@ Size: 554322
 MD5sum: f55f81f1c30e0e2f6ce5888b945b4be3
 Description: 
 Name: whoau8
-Author: 
-Homepage: 
+Author: b1ink <b1ink301@gmail.com>
+Homepage: http://whoau.tistory.com
 Depiction: 
 Icon: 
 
