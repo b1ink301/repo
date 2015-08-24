@@ -1,0 +1,55 @@
+Package: cc.tweak.libobjcipc
+Version: 1.0.2-9
+Section: Tweaks
+Maintainer: Alan Yip
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb_files/cc.tweak.libobjcipc_1.0.2-9_iphoneos-arm.deb
+Size: 71258
+MD5sum: 850ef620cc925d3e3bade4ff224b567c
+Description: An inter-process communication (between app and SpringBoard) solution for jailbroken iOS.
+Name: libobjcipc
+Author: Alan Yip
+
+Package: kr.b1ink.5sky
+Version: 1.3-3
+Priority: optional
+Section: Tweaks
+Maintainer: b1ink
+Depends: firmware (>= 8.0), mobilesubstrate, cc.tweak.libobjcipc (>= 1.0.2), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./deb_files/kr.b1ink.5sky_1.3-3_iphoneos-arm.deb
+Size: 652690
+MD5sum: 9e1c041ac0d839a92d4c5672b082451f
+Description: Quick Reply for KakaoTalk
+Name: 5sky (ios8)
+Author: b1ink <b1ink301@gmail.com>
+
+Package: kr.b1ink.whoau8
+Version: 1.1-0
+Priority: optional
+Section: Tweaks
+Maintainer: b1ink
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./deb_files/kr.b1ink.whoau8_1.1-0_iphoneos-arm.deb
+Size: 554322
+MD5sum: f55f81f1c30e0e2f6ce5888b945b4be3
+Description: See who's calling
+Name: whoau8
+Author: b1ink <b1ink301@gmail.com>
+
+Package: kr.b1ink.wssky
+Version: 1.0.0-21
+Section: Tweaks
+Maintainer: b1ink
+Depends: firmware (>= 8.0), mobilesubstrate, cc.tweak.libobjcipc (>= 1.0.2)
+Architecture: iphoneos-arm
+Filename: ./deb_files/kr.b1ink.wssky_1.0.0-21_iphoneos-arm.deb
+Size: 17602
+Installed-Size: 140
+MD5sum: 35b2ae029d0b36149f1a2d814678a5f8
+Description: Quick Reply for KakaoTalk! (Beta)
+Name: wssky
+Author: b1ink <b1ink301@gmail.com>
+
