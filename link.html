@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1,minimum-scale=1, maximum-scale=1">
+    <script type="text/javascript" src="./mallo.link.js"></script>
+<script type="text/javascript">
+function executeKakaoStoryLink()
+{
+    kakao.link("story").send({
+        post : "http://get.mallo.me",
+        appid : "net.ib.mallo",
+        appver : "1.0",
+        appname : "말로",
+        urlinfo : JSON.stringify({title:"title", desc:"desc", imageurl:["imageurl"], type:"type"})
+    });
+}
+</script>
+<style>
+body {
+    background-color: #F7F7F0;
+    text-align: center;
+}
+div {
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFB1F), to(#EBE70C));
+    border-radius: 10px;
+    width:320px;
+    height:40px;
+    box-shadow: rgba(0, 0, 0, 0.496094) 0px 1px 1px 0px, rgba(0, 0, 0, 0.0976563) 0px -1px 0px 0px;
+    border:0px;
+    font-size:1.25em;
+    text-align: center;
+    line-height: 40px;
+    margin:0px auto;
+}
+img {
+    border-radius: 5px;
+    margin:0px auto;
+}
+</style>
+</head>
+<body>
+    <img src="./kakaostory.png"/>
+    <br/><br/>
+    <div onclick="javascript:executeKakaoStoryLink()">카카오스토리 링크</div>
+    <br/>
+</body>
+
+</html>
